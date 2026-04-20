@@ -1,7 +1,3 @@
-Listo, aquí tienes la versión completa con esa sección añadida y manteniendo el estilo:
-
----
-
 # ¡Hola! 👋 Soy Sorianny
 
 Bienvenido(a) a mi perfil de GitHub. Soy desarrolladora de software enfocada en la creación de aplicaciones web modernas, funcionales y fáciles de usar. Me gusta construir soluciones prácticas, bien estructuradas y con buena experiencia de usuario.
@@ -23,9 +19,7 @@ Participé en el desarrollo de esta aplicación móvil enfocada en el manejo de 
 * Integración con backend
 * Manejo de datos en tiempo real
 * Almacenamiento en la nube
-
----
-
+  
 ### 🧠 Neubrand
 
 **Pulsera Inteligente (Smart Band)**
@@ -36,9 +30,7 @@ Participé en el desarrollo de este proyecto enfocado en la creación de una pul
 * Monitoreo en tiempo real
 * Integración con aplicaciones
 * Enfoque en salud y productividad
-
----
-
+  
 ### 📝 Lista de Tareas
 
 **Aplicación Web Simple**
@@ -50,8 +42,6 @@ Proyecto personal enfocado en la organización de tareas diarias de manera senci
 * Crear, editar y eliminar tareas
 * Interfaz limpia y fácil de usar
 * Almacenamiento local
-
----
 
 ### 🌐 Página Web Personal
 
@@ -65,8 +55,6 @@ Proyecto básico para mostrar información personal y proyectos.
 * Secciones de presentación y contacto
 * Navegación simple
 
----
-
 ### 📄 Requerimientos-RF-RNF
 
 **Ingeniería de Requisitos**
@@ -77,9 +65,7 @@ Repositorio de documentación integral para el ciclo de vida del software.
 * Definición de requerimientos funcionales y no funcionales
 * Análisis detallado del sistema
 * Base estructural para desarrollo
-
----
-
+  
 ## 📫 Contacto y Colaboración
 
 Siempre estoy abierta a nuevas oportunidades, proyectos interesantes y colaboraciones. ¡Siéntete libre de explorar mis repositorios!
