@@ -1,84 +1,71 @@
-# ¡Hola! 👋 Soy Polar
+Listo, aquí tienes la versión completa con esa sección añadida y manteniendo el estilo:
 
-Bienvenido(a) a mi perfil de GitHub. Soy un Desarrollador de Software y Especialista en Aplicaciones Web, enfocado en la creación de soluciones eficientes, intuitivas y de alto rendimiento. Mi experiencia técnica principal abarca el desarrollo frontend y backend, construyendo aplicaciones modernas y escalables.
+---
 
-## 🛠️ Tecnologías y Herramientas Principales
+# ¡Hola! 👋 Soy Sorianny
 
-HTML · CSS · JavaScript · React · PHP · Git
+Bienvenido(a) a mi perfil de GitHub. Soy desarrolladora de software enfocada en la creación de aplicaciones web modernas, funcionales y fáciles de usar. Me gusta construir soluciones prácticas, bien estructuradas y con buena experiencia de usuario.
+
+## 🛠️ Tecnologías y Herramientas
+
+JavaScript · React · Node.js · MySQL · Git · CSS · PHP 
 
 ## 🚀 Portafolio
 
 ### 📱 Inquea
 
 **Aplicación Móvil con Integración Cloud (BaaS)**
-Participé en el desarrollo de esta solución móvil robusta que aprovecha datos en tiempo real y almacenamiento escalable.
+Participé en el desarrollo de esta aplicación móvil enfocada en el manejo de datos en tiempo real y almacenamiento en la nube.
 
 **Stack Tecnológico:** Kotlin, Android SDK, Firebase
-**Características Clave:** Integración backend completa, manejo de datos en tiempo real y almacenamiento en la nube.
+**Características Clave:**
 
-### 🧠 NeuroBand
+* Integración con backend
+* Manejo de datos en tiempo real
+* Almacenamiento en la nube
+
+---
+
+### 🧠 Neubrand
 
 **Pulsera Inteligente (Smart Band)**
-Proyecto desarrollado por mí enfocado en el desarrollo de una pulsera inteligente capaz de integrar tecnología para monitoreo y asistencia al usuario.
+Participé en el desarrollo de este proyecto enfocado en la creación de una pulsera inteligente orientada al monitoreo y asistencia del usuario.
 
 **Características Clave:**
 
-* Monitoreo de datos en tiempo real
+* Monitoreo en tiempo real
 * Integración con aplicaciones
-* Enfoque en salud y/o productividad
-* Desarrollo modular e innovador
+* Enfoque en salud y productividad
 
-### 💰 Sistema de Caja Chica
+---
 
-**Gestión Financiera Interna**
-Aplicación desarrollada por mí para administrar ingresos, egresos y balances de caja chica de forma sencilla y eficiente.
+### 📝 Lista de Tareas
 
-**Stack Tecnológico:** HTML, CSS, JavaScript, PHP
-**Características Clave:**
-
-* Registro de transacciones
-* Control de gastos e ingresos
-* Reportes básicos financieros
-* Interfaz intuitiva
-
-### 🧾 Pemsun Codex
-
-**Sistema de Gestión Académica**
-Proyecto desarrollado por mí enfocado en ayudar a los estudiantes a visualizar su progreso académico, incluyendo materias pendientes y cálculo de promedio.
-
-**Stack Tecnológico:** HTML, CSS, JavaScript, React, PHP
-**Características Clave:**
-
-* Visualización de materias cursadas y pendientes
-* Cálculo automático del promedio académico
-* Interfaz moderna y fácil de usar
-* Arquitectura escalable
-
-### 🛠️ Aplicaciones
-
-**Proyectos de Utilidad Web**
-Repositorio desarrollado por mí enfocado en la construcción de proyectos siguiendo estándares modernos de desarrollo de software.
+**Aplicación Web Simple**
+Proyecto personal enfocado en la organización de tareas diarias de manera sencilla.
 
 **Stack Tecnológico:** HTML, CSS, JavaScript
 **Características Clave:**
 
-* Estructura limpia y escalable
-* Buenas prácticas de desarrollo
-* Documentación clara
+* Crear, editar y eliminar tareas
+* Interfaz limpia y fácil de usar
+* Almacenamiento local
 
-## 📐 Diseño UI/UX y Análisis de Software
+---
 
-### 🎨 Transmovil Wireframes
+### 🌐 Página Web Personal
 
-**Prototipado y Experiencia de Usuario (UX)**
-Fase de diseño interactivo para el proyecto "Transmovil".
+**Sitio Web Portafolio**
+Proyecto básico para mostrar información personal y proyectos.
 
-**Herramientas:** Balsamiq Mockups
+**Stack Tecnológico:** HTML, CSS, JavaScript
 **Características Clave:**
 
-* Enfoque "Design-First"
-* Flujo de usuario optimizado
-* Prototipos de baja fidelidad
+* Diseño responsive
+* Secciones de presentación y contacto
+* Navegación simple
+
+---
 
 ### 📄 Requerimientos-RF-RNF
 
@@ -91,12 +78,13 @@ Repositorio de documentación integral para el ciclo de vida del software.
 * Análisis detallado del sistema
 * Base estructural para desarrollo
 
+---
+
 ## 📫 Contacto y Colaboración
 
-Siempre estoy abierto a nuevas oportunidades, proyectos interesantes y colaboraciones. ¡Siéntete libre de explorar mis repositorios!
+Siempre estoy abierta a nuevas oportunidades, proyectos interesantes y colaboraciones. ¡Siéntete libre de explorar mis repositorios!
 
-📧 Contacto:
-
-* [juanrosariobencosme@gmail.com](mailto:juanrosariobencosme@gmail.com)
+📧 **Correo:** [sorianny.dev@gmail.com](mailto:sorianny.dev@gmail.com)
 
 ⭐️ ¡Gracias por visitar mi perfil!
+
